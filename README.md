@@ -1,2 +1,2 @@
 # CTMAndroid
-A C.T.M.Droid bot for telegram
+Il bot per telegram di C.T.M.Droid
